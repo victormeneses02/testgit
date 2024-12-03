@@ -1,0 +1,1 @@
+# considere essa arquivo como um exemplo de um arquivo de script py, seja de uma funcionalidade de backend ou interface de usuário.
